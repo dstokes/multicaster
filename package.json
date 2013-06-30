@@ -1,0 +1,18 @@
+{
+  "name": "multicaster",
+  "version": "0.0.0",
+  "description": "Simple multicast message subscriber / broadcaster",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/multicaster.js"
+  },
+  "keywords": [
+    "multicast",
+    "udp"
+  ],
+  "author": "Drew Stokes",
+  "license": "BSD",
+  "dependencies": {
+    "my-local-ip": "~1.0.0"
+  }
+}
